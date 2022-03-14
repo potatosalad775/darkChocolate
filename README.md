@@ -1,5 +1,5 @@
-# darkChocolate
-### Kakao Account webpage with Darker shade. Made with the Least Effort possible.
+# darkChocolate extension
+### change Kakao Account webpage with Darker shade. Made with the Least Effort possible.
 
 ![Untitled-1](https://user-images.githubusercontent.com/7566778/158170094-61567449-c7d6-4dc2-bd44-13cb1ce6fc93.png)
 
