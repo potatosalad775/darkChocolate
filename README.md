@@ -6,7 +6,7 @@
 ## Installation
 
 use [TamperMonkey](https://www.tampermonkey.net/) or similar Userscript Extension for your browser.   
-Import [darkChocolate JS File](https://github.com/potatosalad775/darkChocolate/blob/main/darkChocolate.user.js) to your TamperMonkey and enable it.   
+Import [darkChocolate JS File](https://github.com/potatosalad775/darkChocolate/raw/main/darkChocolate.user.js) to your TamperMonkey and enable it.   
 You are good to go now :)
 
 ## Disclaimer
